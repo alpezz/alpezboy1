@@ -1,0 +1,11 @@
+# input
+pi = 22/7
+r = int(input("jari-jari = "))
+
+# Proses menghitung luas lingkaran
+luas = pi * r * r
+
+# output luas lingkaran
+print("pi = %.2f" %pi)
+print("jari-jari =", r)
+print("luas lingkaran = %.2f" %(luas))
